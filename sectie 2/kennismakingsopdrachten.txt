@@ -1,0 +1,13 @@
+1. het eerste element is altijd een DOCTYPE
+
+2. de body is de content die word displayed op de pagina en de head is de metadata die erachter zit
+
+3. een tag is een component van de html pagina
+
+4. een attribuut wordt gebruikt om iets te signaleren in een tag
+
+5. src, target
+
+6. <a> </a>
+
+7. een interne link zit in dezelfde folder, een externe link gaat ergens anders naartoe.
