@@ -1,0 +1,5 @@
+1. Cascading Style Sheets
+2. Een pagina opmaken
+3. HTML is wat er op de pagina komt te staan en CSS is hoe het op de pagina word gedisplayed
+4. 2 manieren
+5. <style></style> in de .HTML file of een .CSS file
