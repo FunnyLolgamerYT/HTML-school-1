@@ -7,21 +7,42 @@
 
 h1 {
     color: green;
-    font-size: 40px;
-    font-family: 'Comic Sans MS';
+    font-size: 50px;
+    font-family: 'Courier New';
     margin-bottom: 20px;
 }
 h2 {
     color: #000;
     font-size: 40px;
-    font-family: 'Comic Sans MS';
+    font-family: 'Courier New';
+    color: red;
     margin-bottom: 10px;
 }
+h6 {
+    color: green;
+    font-size: 80px;
+    font-family: 'Courier New';
+    margin-top: 20px;
 
 
+}
+p {
+    color: blue;
+}
+
+.linkies {
+    margin-bottom: 200px;
+}
+.cat-pretty {
+    font-size: 20px;
+    margin-bottom: 20px;
+}
+.tea {
+    font-size: 19px;
+}
 .ouioui {
     font-size:20px;
 }
-.test {
-    margin-top: 10px;
+.pictures {
+    margin-top: 20px;
 }
