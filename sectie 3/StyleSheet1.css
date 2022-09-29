@@ -31,7 +31,7 @@ p {
 }
 
 .linkies {
-    margin-bottom: 200px;
+    font-size: 30px;
 }
 .cat-pretty {
     font-size: 20px;
@@ -40,8 +40,9 @@ p {
 .tea {
     font-size: 19px;
 }
-.ouioui {
-    font-size:20px;
+.hello {
+    color:limegreen;
+    margin-top: 20px;
 }
 .pictures {
     margin-top: 20px;
