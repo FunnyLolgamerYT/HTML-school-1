@@ -1,0 +1,16 @@
+﻿body {
+    
+
+}
+h1 {
+    font-size: 15px;
+}
+.container {
+    
+    font-size: 15px;
+    text-align: justify;
+    word-spacing: 10px;
+    color: green;
+    line-height: 30px;
+    font-weight: 500;
+}
