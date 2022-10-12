@@ -1,1 +1,11 @@
-﻿
+﻿.container {
+    position: relative;
+    text-align: center;
+    color: white;
+}
+.centered {
+    position: absolute;
+    color:black;
+    bottom: 8px;
+    right: 16px;
+}
