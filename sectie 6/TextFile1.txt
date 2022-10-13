@@ -1,0 +1,4 @@
+1. Media queries is het aanpassen van website elementen gebaseert op bijvoorbeeld resolutie
+2. @media only screen and (max-width: 768px) {
+}
+3. dat is een achtergrond kleur op alleen een specefiek apparaat
