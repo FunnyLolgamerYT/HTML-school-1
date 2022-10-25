@@ -2,3 +2,4 @@
 2. @media only screen and (max-width: 768px) {
 }
 3. dat is een achtergrond kleur op alleen een specefiek apparaat
+4. de font size wordt 2 keer zo groot als de browsers font
