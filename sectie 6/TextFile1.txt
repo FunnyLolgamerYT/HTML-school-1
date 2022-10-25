@@ -3,3 +3,4 @@
 }
 3. dat is een achtergrond kleur op alleen een specefiek apparaat
 4. de font size wordt 2 keer zo groot als de browsers font
+5. dan kun je bugs vinden, weet je ook of de code die je net hebt toegevoegd het probleem is, en anders heb je een kans dat het compleet niet werkt
