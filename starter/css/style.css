@@ -61,6 +61,7 @@ body{
     top: 40%;
     left: 50%;
     transform: translate(-50%, -50%);
+    text-align: center;
 }
 
 .heading-primary{
@@ -68,6 +69,7 @@ color: #fff;
 text-transform: uppercase;
 
 backface-visibility: hidden;
+margin-bottom: 60px;
 }
 .heading-primary:hover {
     animation: logoHover 1s forwards;
@@ -147,4 +149,29 @@ backface-visibility: hidden;
     100% {
         transform: translate(0);
     }
+}
+
+.btn:link,
+.btn:visited{
+    text-transform: uppercase;
+    text-decoration: none;
+    padding: 15px 40px;
+    display: inline-block;
+    border-radius: 100PX;
+    transition: all .2s;
+}
+
+.btn:hover {
+    box-shadow: 0 10px 10px rgba(0,0,0,.2);
+    transform: translateY(-3px);
+}
+
+.btn:active {
+    box-shadow: 0 5px 5px rgba(0,0,0,.2);
+    transform: translateY(-1px);
+}
+
+.btn-white {
+    background-color: white;
+    color: #777;
 }
