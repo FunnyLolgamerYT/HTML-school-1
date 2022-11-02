@@ -1,0 +1,1 @@
+1. ./Images/photo1.jpg is in dezelfde folder, ../Images/photo1.jpg is in een folder terug
