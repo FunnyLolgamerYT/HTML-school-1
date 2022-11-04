@@ -1,1 +1,10 @@
-1. ./Images/photo1.jpg is in dezelfde folder, ../Images/photo1.jpg is in een folder terug
+1. ./Images/photo1.jpg is in dezelfde folder, ../Images/photo1.jpg is in een folder terug.
+2. het is altijd hetzelfde fixed, dus specefiek van de randen vandaan
+3. een @keyframes regel specificeert een animatie
+4. transform en opacity, omdat die twee het makkelijkste is voor een browser om te laden
+5. een soort sub-object cab een selector
+6. :hover, :not(), :visited
+7. Rood
+8. blauw
+9. text-align specificeert waar de text staat op het x coördinaat
+10. de active state betekent dat een element zoals een button wordt geklikt door een gebruiker
