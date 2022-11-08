@@ -1,1 +1,5 @@
 1. B,C,A
+2. C,A,B,D
+3. groen
+4. 35px
+5. 50px
