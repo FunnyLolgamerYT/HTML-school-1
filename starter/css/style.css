@@ -31,7 +31,7 @@ body{
     background-size: cover;
     background-position: top;
     position: relative;
-    clip-path: polygon(0 0, 100% 0, 100% 600px, 0 100%);
+    clip-path: polygon(0 0, 100% 0, 100% 599px, 0 100%);
     
 }
 
