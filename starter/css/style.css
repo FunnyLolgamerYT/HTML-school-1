@@ -34,6 +34,9 @@ body{
     clip-path: polygon(0 0, 100% 0, 100% 599px, 0 100%);
     
 }
+.jeMoeder {
+    border: 5px;
+}
 
 .logo-box{
     position: absolute;
