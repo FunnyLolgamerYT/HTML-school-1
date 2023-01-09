@@ -14,7 +14,10 @@
 }
 
 .button {
+    border: 5px black;
+    padding: 5px;
     margin: 100px;
+    color: red;
 
 }
 
