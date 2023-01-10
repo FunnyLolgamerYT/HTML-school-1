@@ -3,6 +3,15 @@
     grid-template-columns: repeat(1, 200px); /* create a 3-column grid, where each column has a flexible width */
     border: 20px solid salmon;
     width: 200px;
+    margin-bottom: 20px;
+ 
+  }
+  
+  .container2 {
+    display: grid; /* enable grid layout */
+    grid-template-columns: repeat(2, 200px); /* create a 3-column grid, where each column has a flexible width */
+    border: 20px solid salmon;
+    width: 400px;
  
   }
   
