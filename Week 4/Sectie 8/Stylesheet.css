@@ -23,8 +23,27 @@
     grid-auto-flow: row;
     height: 300px;
     text-align: center;
- 
+    margin-bottom: 20px;
   }
+  .container4 {
+        background-color: salmon;
+        display: grid; /* enable grid layout */
+        grid-template-columns: repeat(2, 200px); /* create a 3-column grid, where each column has a flexible width */
+        border: 20px solid salmon;
+        width: 400px;
+        grid-auto-flow: row;
+        margin-bottom: 20px;
+      }
+      .container5 {
+        background-color: salmon;
+        display: grid; /* enable grid layout */
+        grid-template-columns: repeat(2, 200px); /* create a 3-column grid, where each column has a flexible width */
+        border: 20px solid salmon;
+        width: 400px;
+        grid-auto-flow: row;
+        margin-bottom: 20px;
+      }
+  
   
   
   .item { /* styling for each grid item */
@@ -38,7 +57,7 @@
   }
   
   .item-2 {
-    background-color: salmon;
+    background-color: pink;
   }
 
   .item-3 {
@@ -55,4 +74,9 @@
 
   .item-6 {
     background-color: green;
+  }
+
+  .item-7 {
+    background-color: aqua;
+
   }
