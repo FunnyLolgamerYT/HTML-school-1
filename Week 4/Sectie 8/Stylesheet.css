@@ -12,8 +12,20 @@
     grid-template-columns: repeat(2, 200px); /* create a 3-column grid, where each column has a flexible width */
     border: 20px solid salmon;
     width: 400px;
+    grid-auto-flow: row;
+    margin-bottom: 20px;
+  }
+  .container3 {
+    display: grid; /* enable grid layout */
+    grid-template-columns: repeat(6, 200px); /* create a 3-column grid, where each column has a flexible width */
+    border: 20px solid salmon;
+    width: 1200px;
+    grid-auto-flow: row;
+    height: 300px;
+    text-align: center;
  
   }
+  
   
   .item { /* styling for each grid item */
     background-color: #eee;
