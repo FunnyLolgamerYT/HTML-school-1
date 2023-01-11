@@ -1,0 +1,9 @@
+.container {
+  display: flex;
+  flex-wrap: wrap; /* this allows the items to wrap to multiple lines */
+}
+
+.item {
+  flex: 1; /* this causes the items to take up equal space on the row */
+  width: 20%; /* you can use this to limit the width of the items */
+}
