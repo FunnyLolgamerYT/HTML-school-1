@@ -1,0 +1,144 @@
+
+
+@media screen and (max-width: 600px) {
+    .flex-container8 {
+        display: flex;
+        flex-wrap: wrap;
+        border: 3px solid black;
+        width: 151px;
+        height: min-content;
+        margin-bottom: 20px;
+        flex-direction: column;
+      }
+
+      
+    
+      .flex-child8 {
+        display: flex;
+        border: 1px solid green;
+        width: 170px;  
+        height:50px;
+        justify-content: center;
+        align-items: center;
+      }
+}
+
+
+
+
+
+@media screen and (max-width: 800px) and (min-width: 601px) {
+    .flex-container8 {
+        display: flex;
+        flex-wrap: wrap;
+        border: 3px solid black;
+        width: 456px;
+        height: min-content;
+        margin-bottom: 20px;
+        flex-direction: row;
+      }
+
+      
+    
+      .flex-child8 {
+        display: flex;
+        border: 1px solid green;
+        width: 150px;  
+        height:200px;
+        justify-content: center;
+        align-items: center;
+      }
+
+      .i10 {
+        width: 456px;
+      }
+}
+
+@media screen and (min-width: 800px) {
+.flex-container8 {
+    display: flex;
+    flex-wrap: wrap;
+    border: 3px solid black;
+    width: 760px;
+    height: min-content;
+    margin-bottom: 20px;
+    flex-direction: row;
+  }
+
+  .flex-child8 {
+    display: flex;
+    border: 1px solid green;
+    width: 150px;  
+    height:200px;
+    justify-content: center;
+    align-items: center;
+  }
+}
+
+.flex-container {
+    display: flex;
+    flex-wrap: wrap;
+    border: 3px solid black;
+    width: 760px;
+    height: min-content;
+    margin-bottom: 20px;
+    flex-direction: row;
+  }
+
+  .flex-child {
+    display: flex;
+    border: 1px solid green;
+    width: 150px;  
+    height:200px;
+    justify-content: center;
+    align-items: center;
+  }
+
+  .i4, .i8 {
+    height: 20px;
+  }
+
+  .flex-container1 {
+    display: flex;
+    flex-wrap: wrap;
+    border: 3px solid black;
+    width: 608px;
+    height: min-content;
+    margin-bottom: 20px;
+    flex-direction: row;
+  }
+
+  .flex-child1 {
+    display: flex;
+    border: 1px solid green;
+    width: 150px;  
+    height:200px;
+    justify-content: center;
+    align-items: center;
+  }
+
+
+
+
+
+
+  .color:nth-child(1),
+  .color:nth-child(5),
+  .color:nth-child(9) {
+    background-color:yellow ;
+  }
+
+  .color:nth-child(2),
+  .color:nth-child(6),
+  .color:nth-child(10) {
+    background-color: red;
+  }
+
+  .color:nth-child(3),
+  .color:nth-child(7) {
+    background-color: blue;
+  }
+  .color:nth-child(4),
+  .color:nth-child(8) {
+    background-color: purple;
+  }
