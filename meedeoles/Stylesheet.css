@@ -1,0 +1,35 @@
+.header {
+  display: flex;
+  justify-content: space-around;
+  flex-wrap: wrap;
+}
+.header--item {
+  flex-basis: 25rem;
+  font-size: 2rem;
+}
+
+.foote--item {
+  flex-basis: 150px;
+}
+
+.main {
+  display: grid;
+  grid-template-columns: 1fr 1fr 2fr;
+  grid-template-rows: repeat(3, 1fr);
+}
+.main--item {
+  font-size: 5rem;
+}
+
+.Image-Left,
+.Image-Right {
+  grid-row-start: 1;
+  grid-row-end: 4;
+}
+.Image-Left {
+  grid-column-start: 1;
+  grid-column-end: 4;
+}
+.Image-Right {
+  grid-column: 3 / 4;
+}
