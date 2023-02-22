@@ -1,0 +1,7 @@
+Dag 1(16-2-2023): Begin met maken van pagina - Had wat meer motivatie kunnen hebben
+Dag 2(17-2-2023): 3 pagina's gemaakt - Had wat meer motivatie kunnen hebben
+dag 3(20-2-2023): content gestyled - Had wat meer motivatie kunnen hebben
+Dag 4(21-2-2023): compleet code herschreven en media queries toegevoegd - De code kan wat schoner gemaakt worden
+Dag 5(22-2-2023): Pagina af, code schoner gemaakt en comments toegevoegd, buttons, favicon en logo toegevoegd 
+
+Ik heb vooral geprobeerd de pagina een beetje mooi eruit te laten zien maar ik ben niet echt te beste designer
