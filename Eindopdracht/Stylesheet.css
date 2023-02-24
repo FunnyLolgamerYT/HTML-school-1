@@ -27,7 +27,7 @@ a {
 .header {
     
     height: 100px;
-    background-image: linear-gradient(left#275DAD66,to right#275DAD)  ;
+    /*background-image: linear-gradient(to left,#275DAD66,#275DAD)  */
     margin-right: 250px ;
     margin-left: 50px;
 
